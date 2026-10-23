@@ -139,8 +139,6 @@
 
 <br/>
 
-> *"Melestarikan budaya bukan berarti terjebak di masa lalu, tapi membawa masa lalu ke masa depan dengan teknologi."*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f3ff,100:ec4899&height=120&section=footer" width="100%" alt="" />
 
 </div>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 16" width="1200" height="16" role="presentation">
+<defs>
+  <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#00f3ff" stop-opacity="0"/><stop offset=".5" stop-color="#00f3ff" stop-opacity=".5"/><stop offset="1" stop-color="#ec4899" stop-opacity="0"/></linearGradient>
+  <radialGradient id="p"><stop offset="0" stop-color="#fff"/><stop offset=".35" stop-color="#ec4899"/><stop offset="1" stop-color="#ec4899" stop-opacity="0"/></radialGradient>
+</defs>
+<style>.dot{animation:run 4s cubic-bezier(.6,0,.4,1) infinite}@keyframes run{from{transform:translateX(-80px)}to{transform:translateX(1280px)}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<rect y="7.5" width="1200" height="1" fill="url(#l)"/>
+<ellipse class="dot" cx="0" cy="8" rx="60" ry="5" fill="url(#p)"/>
+</svg>
